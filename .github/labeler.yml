@@ -1,0 +1,14 @@
+event:
+  - Events/**/*.js
+
+handler:
+  - Structures/Handlers/*.js
+
+types:
+  - Types/*.txt
+
+index_upate:
+  - Structures/index.js
+
+package:
+  - package.json
